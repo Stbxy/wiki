@@ -3,3 +3,8 @@ site_url: https://Stbxy.github.io/wiki/
 theme:
   name: material
   language: zh
+
+nav:
+  - 首页: index.md
+  - 志愿活动:
+     - 第一次会议: volunteer/first-meeting-2026-10.md
